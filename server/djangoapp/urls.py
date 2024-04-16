@@ -6,6 +6,7 @@ from django.conf import settings
 
 app_name = 'djangoapp'
 urlpatterns = [
+       
     # # path for registration
 
     # path for login
